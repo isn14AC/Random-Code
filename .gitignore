@@ -1,4 +1,12 @@
-*
-!Controlers/
-!Models/
-!Views
+# Random APP
+##############
+*.*
+![Ww]eb.[Cc]onfig
+Random APP/bin/
+Random App/obj/
+#!Random APP/*
+!Random APP/Content/*.*
+!Random APP/My Scripts/*.*
+!Random APP/Controllers/*.*
+!Random APP/Models/*.*
+!Random APP/Views/*.*
